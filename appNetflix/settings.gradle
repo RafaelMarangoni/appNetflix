@@ -1,0 +1,2 @@
+rootProject.name='appNetflix'
+include ':app'
